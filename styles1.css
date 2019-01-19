@@ -1,0 +1,301 @@
+
+/* "Center" */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    width: 25%;
+  }
+
+
+
+  .centergraphic {
+    position: absolute;
+    margin-left: 500px;
+    margin-right: 150px;
+    margin-top: 100px;
+    
+  }
+  .centertext {
+    display: block;
+    margin-left: 750px;
+    margin-right: auto;
+    width: 25%;
+  }
+
+  .truecenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+
+  table, th, td {
+    border: 1px solid black;
+    background-color: #ffffff;
+    color: black;
+    width: 25%;
+    height: 50%;
+  }
+
+  table:hover {
+    background-color: #0000FF
+  }
+  
+
+  .centerobject {
+    position: "fixed";
+    margin-left: 35%;
+    margin-right: auto;
+    
+  }
+
+
+
+  .middletable {
+    position: "fixed";
+    margin-left: 39%;
+    margin-right: auto;
+    
+  }
+
+  .centerwrit {
+
+    text-align: center;
+    
+      }
+
+
+      
+
+  /* Colors N' Stuff */
+  
+  
+  .border {
+    
+    border:3px solid #ffffff;
+ }
+
+
+ .white{
+  color: #ffffff
+  ;
+}
+
+
+
+  /* One-off Container */
+
+  .box {
+    position:relative;
+  }
+
+  .bottomright {
+    position:absolute;
+    bottom: 200px;
+    right:200px;
+  }
+  
+   
+
+/* Lazy Locators */
+
+
+    #locator { 
+      position: absolute; visibility: visible; left:  550px; top: 3px; z-index: 200; 
+    }
+
+    #locator2 { 
+      position: absolute; visibility: visible; right:  10px ; top: 100px; z-index: 200; 
+    }
+    #locator3 { 
+      position: absolute; visibility: visible; left:  35% ; top: 50px; z-index: 200; 
+    }
+
+
+    /* Container stuff */
+
+    .container {
+      position: relative;
+      
+    
+    }
+
+
+    /* da baby */
+    .top-right {
+      position: absolute;
+      top: 70px;
+      right: 16px;
+    }
+
+    /* pictext */
+    .pictext {
+      position: absolute;
+      left: 12%;
+  
+    }
+
+     /* textbox */
+     .textbox {
+      position: absolute;
+      left: 12%;
+      top: 110px;
+  
+    }
+
+    .button {
+      position : absolute;
+      left: 43%; 
+      top: 150px;
+    }
+
+    .searchbox {
+      position: absolute;
+      left: 35  %;
+      top: 150px;
+  
+    }
+
+
+
+    /* Position of images on history graphic */
+
+    .pos1 {
+      position: absolute;
+      left : 10%;
+      top: 30%
+    }
+   
+    .pos2
+    {
+      position: absolute;
+      right : 10%;
+      top: 65%
+    }
+     
+    .pos3{
+      position: absolute;
+      left : 10%;
+      top: 90%
+    }
+    
+    
+    .pos4 {
+      position: absolute;
+      right : 10%;
+      top: 120%
+    }
+    
+    .pos5{
+      position: absolute;
+      left : 10%;
+      top: 170%;
+    }
+    
+    .pos6{
+      position: absolute;
+      left : 10%;
+      top: 200%
+    }
+   
+    
+    .pos7{
+      position: absolute;
+      right : 10%;
+      top: 149%
+    }
+     
+    
+    .pos8{
+      position: absolute;
+      right : 10%;
+      top: 250%
+    }
+   
+    
+    .pos9{
+      position: absolute;
+      right : 10%;
+      top: 190%;
+    }
+
+    #left1 {
+position: absolute;
+left : 35%;
+font-size: 30px;
+top: 35%
+    }
+
+  #left2 {
+position: absolute;
+left : 35%;
+font-size: 30px; 
+top: 213%;   }
+
+    #left3 {
+position: absolute;
+left : 35%;
+font-size: 30px;
+top: 100%;
+    }
+
+    #left4 {
+      position: absolute;
+      left : 35%;
+      font-size: 30px;
+      top: 182%;
+          }
+
+
+          #left5 {
+            position: absolute;
+            left : 35%;
+            font-size: 30px;
+            top: 182%;
+          }
+                
+      
+
+#right1 {
+position: absolute;
+right: 35%;
+font-size: 30px;
+top: 66%;
+
+
+}
+#right2 {
+position: absolute;
+right: 35%;
+font-size: 30px;
+top: 130%;
+
+
+}
+#right3 {
+position: absolute;
+right: 35%;
+font-size: 30px;
+top: 150%;
+
+
+}
+#right4 {
+position: absolute;
+right: 35%;
+font-size: 30px;
+top: 187%;
+
+}
+#right5 {
+position: absolute;
+right: 35%;
+font-size: 30px;
+top: 251%;
+
+
+}
